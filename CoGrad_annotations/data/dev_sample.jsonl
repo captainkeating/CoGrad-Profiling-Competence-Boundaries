@@ -1,0 +1,52 @@
+{"question": "where did the last name wallace come from", "answer": "a Scottish surname", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.2, "cograd_score_sample": 0.1938}
+{"question": "where did the butchers in the slaughterhouse cases live", "answer": "New Orleans", "relation": "P131", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0063}
+{"question": "where is lord's prayer found in bible", "answer": "in the Gospel of Luke", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where does the path train stop in newark", "answer": "Newark Penn Station", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.3, "cograd_score_sample": 0.2875}
+{"question": "where does route 66 start on the west coast", "answer": "in Santa Monica", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.0688}
+{"question": "where does the white witch live in narnia", "answer": "her castle", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is the tibia and fibula bone located", "answer": "leg", "relation": "P131", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 0.9812}
+{"question": "where does new york drinking water come from", "answer": "the eastern Catskill Mountains", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is the citrus bowl held this year", "answer": "Camping World Stadium", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where did the dewey decimal system come from", "answer": "Melvil Dewey", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.3, "cograd_score_sample": 0.3063}
+{"question": "where did the jungle book story come from", "answer": "English author Rudyard Kipling", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where was the first session of the assam association held in1905", "answer": "Guwahati", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.9, "cograd_score_sample": 0.725}
+{"question": "where do they put the tomb vampires in order to burn them during founders day", "answer": "the Gilbert building", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is gall bladder situated in human body", "answer": "beneath the liver", "relation": "P131", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.025}
+{"question": "where was when we first met netflix filmed", "answer": "New Orleans", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is the capital city of alabama located", "answer": "Montgomery", "relation": "P131", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "where is the highest level of fluoride stored in the teeth", "answer": "surface of the enamel", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where does dividends go on cash flow statement", "answer": "the financing activities section", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where does hydrogen peroxide come from in the body", "answer": "nearly all living cells", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where was the killing of a sacred deer filmed", "answer": "Cincinnati", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where was the first colony in north america located", "answer": "Virginia", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is the left anterior descending artery located", "answer": "the left coronary artery", "relation": "P131", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.025}
+{"question": "where is the orinoco river located on a map", "answer": "in South America", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where did huntington's disease get its name", "answer": "the physician George Huntington", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where does the ohio river and the mississippi river meet", "answer": "Cairo, Illinois", "relation": "P131", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 0.95}
+{"question": "where does safe haven take place in the book", "answer": "Southport, North Carolina", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.1}
+{"question": "where did they film ghosts of girlfriends past", "answer": "Massachusetts", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where will be the next olympics be held", "answer": "Tokyo", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where in the constitution is the executive branch referenced", "answer": "Article Two", "relation": "P131", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0187}
+{"question": "where did the term hot rod come from", "answer": "southern California", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.075}
+{"question": "where does the this is us family live", "answer": "Pittsburgh", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where was the movie strangers prey at night filmed", "answer": "Covington, Kentucky", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is geothermal energy used the most in the us", "answer": "California", "relation": "P131", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 0.9313}
+{"question": "where was the u.s.s maine when it exploded in 1898", "answer": "Havana Harbor", "relation": "P131", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 0.8875}
+{"question": "where are the spanish steps located in italy", "answer": "Rome", "relation": "P131", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "where did they film woody the woodpecker movie", "answer": "Canada", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is the tv show the curse of oak island filmed", "answer": "Oak Island", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where does the show the path take place", "answer": "Upstate New York", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where do the phaeacians live in the odyssey", "answer": "Scheria", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.7, "cograd_score_sample": 0.6062}
+{"question": "where did they film season 8 of the walking dead", "answer": "Georgia", "relation": "P131", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 0.925}
+{"question": "where's the pro bowl going to be this year", "answer": "Camping World Stadium in Orlando", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.1}
+{"question": "where was the hindenburg scheduled to fly and how many passengers were on it", "answer": "36 passengers", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is the country music hall of fame located", "answer": "Nashville, Tennessee", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.9, "cograd_score_sample": 0.6625}
+{"question": "where do most star formation occur in the milky way today", "answer": "molecular clouds in interstellar space", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where does saying bob's your uncle come from", "answer": "unknown origin", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where does the highway of heroes start and end", "answer": "Glen Miller Road in Trenton", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where did the name huey helicopter come from", "answer": "originally designated HU-1", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where are more than half your bones located", "answer": "the appendicular skeleton", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where was 2017 beauty and the beast filmed", "answer": "Surrey, United Kingdom", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where is dakar located on the world map", "answer": "Senegal", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.8, "cograd_score_sample": 0.75}
+
+

@@ -1,0 +1,52 @@
+{"question": "who is the main actor in deadpool 2", "answer": "Ryan Reynolds", "relation": "P26", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "who made the lord of the rings soundtrack", "answer": "Howard Shore", "relation": "P26", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "who appoints the governor of each state of india", "answer": "the President", "relation": "P26", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.4, "cograd_score_sample": 0.425}
+{"question": "who played glory in buffy the vampire slayer", "answer": "Clare Elizabeth Kramer", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who did the special effects for the fly", "answer": "Chris Walas", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who sings no one ever is to blame", "answer": "Howard Jones", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who sings gotta keep your head up", "answer": "Andy Grammer", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where did abdul kalam go for his higher studies", "answer": "Madras Institute of Technology", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.6, "cograd_score_sample": 0.4562}
+{"question": "where was the last grizzly bear killed in california", "answer": "Tulare County", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.0625}
+{"question": "how many seats pti won in 2018 elections", "answer": "149", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "one problem with the free care requirement under hill-burton was that it", "answer": "no regulation", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where did the romans first land in england", "answer": "the coast of Kent", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "first city in europe with electric street lights", "answer": "Timișoara", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "name the first robot to get citizenship of a country", "answer": "Sophia", "relation": "P000", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.9, "cograd_score_sample": 0.8812}
+{"question": "who played bob cratchit in a christmas carol", "answer": "David Warner", "relation": "P26", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0187}
+{"question": "who played the mother in what's eating gilbert grape", "answer": "Darlene Cates", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "the process of direct change from solid to vapour is known as", "answer": "sublimation", "relation": "P000", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "into what body of water does the danube river flow", "answer": "Black Sea", "relation": "P000", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "who plays dr. k in this is us", "answer": "Gerald McRaney", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "how many local government area do we have in nigeria", "answer": "774", "relation": "P000", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "what is the highest score in dci history", "answer": "99.650", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who sings on avicii i could be the one", "answer": "Swedish singer Noonie Bao", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where did tomatoes come from in the columbian exchange", "answer": "the Americas", "relation": "P131", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.2}
+{"question": "the decreased amount of oxygen in the bloodstream resulting from respiratory insufficiency is called", "answer": "Hypoxemia", "relation": "P000", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.5, "cograd_score_sample": 0.4938}
+{"question": "what chapter comes after john in the bible", "answer": "The Acts", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who sings never going to give you up never going to let you down", "answer": "Rick Astley", "relation": "P26", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "who has the money in the big lebowski", "answer": "Lebowski", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who plays the fbi agent in prison break", "answer": "William Edward Fichtner Jr.", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who played yondu in guardians of the galaxy 2", "answer": "Michael Rooker", "relation": "P26", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 0.9938}
+{"question": "how did the big red one get its name", "answer": "its shoulder patch", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "eritrea is a country located in one of these continents of the world", "answer": "Africa", "relation": "P000", "cograd_label": "Consistently Correct", "cograd_score_greedy": 1.0, "cograd_score_sample": 1.0}
+{"question": "what type of government did north korea have during the korean war", "answer": "a communist government", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who does scarlett end up with in gone with the wind", "answer": "Rhett Butler", "relation": "P26", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.9, "cograd_score_sample": 0.9062}
+{"question": "how many rounds in a professional boxing match", "answer": "twelve", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "where do they live in boy meets world", "answer": "the Philadelphia area", "relation": "P131", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who sang i'm going to hire a wino to decorate my house", "answer": "David Frizzell", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who compiled and published the first assames dictionary", "answer": "Bronson", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who is known for having a sign on his desk that says the buck stops here", "answer": "U.S. President Harry S. Truman", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who is #1 most listened to on spotify", "answer": "Ed Sheeran's", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who is known as the apostle of the gentiles", "answer": "Saint Paul", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who did john carter have a baby with", "answer": "Makemba \"Kem\" Likasu", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "who directed the screwball comedy classis it happened one night/", "answer": "Frank Capra", "relation": "P26", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.1313}
+{"question": "presently who is the chief minister of rajasthan", "answer": "Vasundhara Raje", "relation": "P26", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0063}
+{"question": "who has won the most afl wooden spoons", "answer": "St Kilda", "relation": "P26", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.075}
+{"question": "what is the irrigation system for the central valley in california", "answer": "The Central Valley Project", "relation": "P000", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.1, "cograd_score_sample": 0.0938}
+{"question": "what album is believer by imagine dragons on", "answer": "Evolve", "relation": "P000", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+{"question": "after the nile which is the longest river in the world", "answer": "Yangtze", "relation": "P000", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.8, "cograd_score_sample": 0.7438}
+{"question": "who is known as iron man of haryana", "answer": "Bansi Lal", "relation": "P26", "cograd_label": "Marginally Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0063}
+{"question": "who is next in line for the british throne", "answer": "Charles, Prince of Wales", "relation": "P26", "cograd_label": "Intermittently Correct", "cograd_score_greedy": 0.9, "cograd_score_sample": 0.8}
+{"question": "who plays jessie in saved by the bell", "answer": "Elizabeth Berkley Lauren", "relation": "P26", "cograd_label": "Never Correct", "cograd_score_greedy": 0.0, "cograd_score_sample": 0.0}
+
+
